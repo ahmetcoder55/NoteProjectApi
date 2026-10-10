@@ -1,0 +1,6 @@
+@NoteProject.Api_HostAddress = http://localhost:5173
+
+GET {{NoteProject.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
